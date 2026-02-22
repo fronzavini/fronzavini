@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vinícius Sombrio Fronza!
 
-<!--
-**fronzavini/fronzavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Informática pelo Instituto Federal Catarinense – Campus Blumenau  
+💻 Desenvolvedor Full Stack  
+📍 Brasil  
+🚀 18 anos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Full Stack formado no curso Técnico Integrado em Informática pelo IFC – Campus Blumenau.
+
+Durante minha trajetória acadêmica, desenvolvi diversos projetos voltados à criação de sistemas web completos, atuando tanto no backend quanto no frontend. Tenho foco em organização de código, boas práticas e construção de aplicações funcionais e escaláveis.
+
+Busco constantemente evoluir na área de desenvolvimento de software e arquitetura de sistemas.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+### 💻 Backend
+- Python
+- Flask
+
+### 🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### 🗄 Banco de Dados
+- MySQL
+- SQLite
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔹 Sistema de Gestão (Floricultura)  
+Sistema completo com controle de estoque, vendas e financeiro.
+
+🔹 Sistema de Reservas  
+Aplicação web com controle por datas, turnos e visualização semanal.
+
+🔹 Projetos Acadêmicos  
+Desenvolvimento de aplicações web e sistemas completos durante o curso técnico.
+
+---
+
+## 📚 Formação
+
+🎓 Ensino Médio Integrado ao Técnico em Informática  
+Instituto Federal Catarinense – Campus Blumenau
+
+---
+
+## 📈 Objetivo
+
+Atuar como desenvolvedor e evoluir continuamente em:
+- Arquitetura de Software
+- Boas práticas de desenvolvimento
+- Sistemas web escaláveis
+- Integração backend + frontend
+
+---
+
+## 📫 Contato
+
+📧 (coloque seu email aqui)  
+💼 LinkedIn: (coloque seu link aqui)
+
+---
+
+⭐ Sempre buscando aprender, evoluir e construir soluções eficientes.
